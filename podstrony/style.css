@@ -1,0 +1,178 @@
+body
+{
+	background-color: #303030;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rectangle
+{
+	width: 980px;
+	margin: 20px;
+	margin-top: 10px;
+	text-align: center;
+}
+
+.square
+{
+	width: 50%;
+	float: left;
+}
+
+#logo
+{
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 60px;
+	width: 600px;
+	text-align: left;
+}
+
+#zegar
+{
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 60px;
+	text-align: left;
+}
+
+.tile1
+{
+	margin: 10px;
+	margin-top: 0;
+	width: 230px;
+	height: 142px;
+	background-color: #3095D3;
+	float: left;
+	text-align: center;
+}
+
+.tile1:hover
+{
+	background-color: #2084C2;
+}
+
+.tile2
+{
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #666666;
+	float: left;
+	text-align: center;
+}
+
+.tile2:hover
+{
+	background-color: #555555;
+}
+
+.tile3
+{
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #93C748;
+	float: left;
+	text-align: center;
+}
+
+.tile3:hover
+{
+	background-color: #82B637;
+}
+
+.tile4
+{
+	margin: 10px;
+	width: 420px;
+	height: 82px;
+	background-color: #EE5A32;
+	float: left;
+	text-align: center;
+	font-size: 26px;
+	padding: 30px;
+	line-height: 150%;
+}
+
+.tile5
+{
+	margin: 10px;
+	margin-top: 0;
+	width: 420px;
+	height: 244px;
+	background-color: #666666;
+	float: left;
+	text-align: justify;
+	padding: 30px;
+}
+
+.yt
+{
+	margin: 10px;
+	width: 105px;
+	height: 142px;
+	background-color: #D94348;
+	float: left;
+}
+
+.yt:hover
+{
+	background-color: #C83237;
+}
+
+.fb
+{
+	margin: 10px;
+	width: 105px;
+	height: 142px;
+	background-color: #4668B3;
+	float: left;
+}
+
+.fb:hover
+{
+	background-color: #3557A2;
+}
+
+.gplus
+{
+	margin: 10px;
+	width: 105px;
+	height: 142px;
+	background-color: #D95333;
+	float: left;
+}
+
+.gplus:hover
+{
+	background-color: #C84222;
+}
+
+.tw
+{
+	margin: 10px;
+	width: 105px;
+	height: 142px;
+	background-color: #3095D3;
+	float: left;
+}
+
+.tw:hover
+{
+	background-color: #2084C2;
+}
+
+a.tilelink
+{
+	color: #ffffff;
+	text-decoration: none;
+}
